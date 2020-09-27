@@ -1,8 +1,8 @@
-name: animation_flex
+name: animated_flex
 description: Flutter animation flex.
 version: 0.0.1
 author: wuweijian1997
-homepage:
+homepage: https://github.com/wuweijian1997/flutter_animated_flex
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
