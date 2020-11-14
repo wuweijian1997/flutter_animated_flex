@@ -4,7 +4,7 @@ Flutter animation flex.
 
 ## example
 
-<img src="./demo.gif" height="600">
+![demo.gif](https://github.com/wuweijian1997/flutter_animated_flex/blob/master/demo.gif)
 
 ### demo1
 ```
